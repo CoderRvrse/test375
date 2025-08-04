@@ -1,0 +1,4 @@
+/* File: templates/react/dashboard-admin/src/index.css */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
